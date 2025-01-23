@@ -14,6 +14,7 @@ Estudante de Análise e Desenvolvimento de Software.
   <img align="center" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   
 </div>
+
 ##
 
 <div>
