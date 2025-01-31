@@ -1,4 +1,4 @@
-### Olá! Eu sou a Dayana Nascimmento 👋
+### Olá! Eu sou a Dayana Nascimento 👋
 ##
 Estudante de Análise e Desenvolvimento de Sistema.
 ##
