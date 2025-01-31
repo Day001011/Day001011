@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Dayana Nascimento 👋
 ##
-Estudante de Análise e Desenvolvimento de Sistema.
+Estudante de Técnico em Desenvolvimento de Sistema.
 ##
 <div>
   <a href="https://github.com/Day001011">
