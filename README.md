@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Dayana Nascimento 👋
 ##
-Estudante de Técnico em Desenvolvimento de Sistema.
+Estudante em Redes de Computadores
 
 ##
 
